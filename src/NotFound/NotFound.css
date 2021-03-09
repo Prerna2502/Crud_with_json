@@ -1,0 +1,10 @@
+.notFound{
+    text-align: center;
+    /* background-image : url(../classStateManagement/img/404.jpg); */
+    background-repeat : no-repeat;
+    /* background-size: cover; */
+    width: 100vw; 
+    background: fill;
+    height: 80vh;
+
+}

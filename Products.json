@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "P",
+      "price": "1200",
+      "id": "8"
+    },
+    {
+      "id": "1",
+      "name": "Bangles",
+      "price": "60"
+    },
+    {
+      "id": "13",
+      "name": "Chain",
+      "price": "120"
+    },
+    {
+      "id": "16",
+      "name": "Chain",
+      "price": "120"
+    }
+  ]
+}
